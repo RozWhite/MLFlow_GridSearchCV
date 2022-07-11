@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rozita/mlflow_wine/mlruns/0/5604628cd38e4ba9a1587cd78b560a79/artifacts
+end_time: 1657545420812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5604628cd38e4ba9a1587cd78b560a79
+run_uuid: 5604628cd38e4ba9a1587cd78b560a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657545408868
+status: 3
+tags: []
+user_id: Rozita
