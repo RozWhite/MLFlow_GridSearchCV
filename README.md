@@ -1,1 +1,1 @@
-# Create MLFlow runs with Sklearn Gridsearch on Red Wine Quality datast
+# Create MLFlow with Sklearn Gridsearch on Red Wine Quality datast
